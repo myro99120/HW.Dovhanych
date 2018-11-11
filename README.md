@@ -1,1 +1,1 @@
-# HW6-7.Dovhanych
+# HW.Dovhanych
