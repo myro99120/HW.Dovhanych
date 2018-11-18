@@ -1,0 +1,24 @@
+.carousel__images ul {
+    width: 9999px;    
+}
+
+
+.carousel__images li {
+    display: inline-block;
+}
+
+.carousel__images img {
+    width: 250px;
+    height: 200px;
+    display: block;
+}
+
+.button {
+    width: 150px;
+    border-radius: 75;
+    background:  rgba(226, 115, 156, 0.5);
+    font-size: 20pt;
+    transform: translateX(500px);
+    
+}
+
